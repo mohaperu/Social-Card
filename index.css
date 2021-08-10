@@ -1,0 +1,23 @@
+body{
+background-color: rgb(231, 228, 228) ;
+}
+.fa{
+color: #4782cf;
+}
+.box-center{
+    background-color: white;
+    padding: 60px 10px;
+    margin: 30px 0px;
+}
+.box{
+    padding: 60px;
+}
+.text{
+    margin: 20px 0px;
+}
+span{
+    font-size: 15px;
+}
+a{
+    border-bottom: 1px solid blue;
+}
